@@ -12,6 +12,8 @@ layouts for live settings and SD-card replay.
 See [PROTOCOL.md](PROTOCOL.md). Each section says whether it was validated on
 a real camera or only read from the shipped app.
 
+An open client implementing it: [v380-lan-client](https://github.com/smichea/v380-lan-client).
+
 Listed on [OpenDeviceDB](https://opendevicedb.org/) as `macro-video/s300`.
 
 ## License
